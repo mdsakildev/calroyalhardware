@@ -20,34 +20,10 @@
             "message": "Free shipping for all orders from $60+",
             "message_link": ""
           }
-        },
-        "item_kf8C6P": {
-          "type": "item",
-          "settings": {
-            "message": "Free shipping for all orders from $60+",
-            "message_link": ""
-          }
-        },
-        "item_dGj4GU": {
-          "type": "item",
-          "settings": {
-            "message": "Free shipping for all orders from $60+",
-            "message_link": ""
-          }
-        },
-        "item_6Ycmkw": {
-          "type": "item",
-          "settings": {
-            "message": "Free shipping for all orders from $60+",
-            "message_link": ""
-          }
         }
       },
       "block_order": [
-        "item_7qmTrF",
-        "item_kf8C6P",
-        "item_dGj4GU",
-        "item_6Ycmkw"
+        "item_7qmTrF"
       ],
       "disabled": true,
       "custom_css": [
@@ -70,7 +46,6 @@
       "blocks": {
         "5e153016-a9d7-46c9-a10e-30d16446793d": {
           "type": "topbar",
-          "disabled": true,
           "settings": {
             "color_scheme": "",
             "show_divider": true,
@@ -94,19 +69,20 @@
         ".social-media-links {column-gap: 30px;}"
       ],
       "settings": {
-        "color_scheme": "",
-        "color_scheme_menu": "",
-        "header_design": "logo-center-menu-left",
-        "container": "container-fluid",
+        "color_scheme": "badge-sale",
+        "color_scheme_menu": "badge-sale",
+        "header_design": "logo-left__2l",
+        "container": "container",
         "sticky_header": "on_scroll_up",
         "transparent_on_top": false,
         "transparent_text_color": "#ffffff",
         "logo_text": "",
+        "logo": "shopify://shop_images/calroyal-hardware-Logo-design-White_copy_2.png",
         "logo_svg": "",
         "logo_mobile_svg": "",
         "logo_transparent_svg": "",
         "logo_max_width": 145,
-        "sticky_logo_max_width": 145,
+        "sticky_logo_max_width": 110,
         "mobile_logo_max_width": 110,
         "main_menu": "main-menu",
         "secondary_menu": "",

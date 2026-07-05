@@ -15,7 +15,6 @@
         "1621243260e1af0c20-0": {
           "type": "slider_item",
           "settings": {
-            "background": "shopify://shop_images/3_5deed574-76d0-462d-81bb-6951c18e76cc.jpg",
             "content_in_container": false,
             "content_position": "left middle",
             "text_alignment": "left",
@@ -43,7 +42,6 @@
         "1621243260e1af0c20-1": {
           "type": "slider_item",
           "settings": {
-            "background": "shopify://shop_images/1_3701c063-80e6-4f0b-9cdd-2656978c11d0.jpg",
             "content_in_container": false,
             "content_position": "left middle",
             "text_alignment": "left",
@@ -71,7 +69,6 @@
         "1621243260e1af0c20-2": {
           "type": "slider_item",
           "settings": {
-            "background": "shopify://shop_images/2_4d0eeaae-f6e3-4240-9c0b-53783f728a57.jpg",
             "content_in_container": false,
             "content_position": "left middle",
             "text_alignment": "left",
@@ -168,7 +165,6 @@
             "video_type": "shopify",
             "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "ratio": "4:3",
-            "image": "shopify://shop_images/2_4d0eeaae-f6e3-4240-9c0b-53783f728a57.png",
             "video_title": "",
             "text_size": "medium",
             "text_color": "white",
@@ -276,11 +272,9 @@
         "container": "w-full",
         "color_scheme": "",
         "align": "end",
-        "background_image": "shopify://shop_images/5_fcd06fa9-eb3c-412d-a839-f559687bc3b7.jpg",
         "background_in_container": false,
         "enable_parallax": false,
         "parallax_direction": "vertical",
-        "mb_image": "shopify://shop_images/5_fcd06fa9-eb3c.png",
         "use_image_as_background": false,
         "heading": "DOUBLE OFFER",
         "description": "",
