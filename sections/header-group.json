@@ -14,6 +14,20 @@
     "annoucement": {
       "type": "annoucement",
       "blocks": {
+        "item_7qmTrF": {
+          "type": "item",
+          "settings": {
+            "message": "Free shipping for all orders from $60+",
+            "message_link": ""
+          }
+        },
+        "item_kf8C6P": {
+          "type": "item",
+          "settings": {
+            "message": "Free shipping for all orders from $60+",
+            "message_link": ""
+          }
+        },
         "item_dGj4GU": {
           "type": "item",
           "settings": {
@@ -30,6 +44,8 @@
         }
       },
       "block_order": [
+        "item_7qmTrF",
+        "item_kf8C6P",
         "item_dGj4GU",
         "item_6Ycmkw"
       ],
@@ -38,7 +54,7 @@
         ".m-announcement-bar__container {--container-width: 600px;}"
       ],
       "settings": {
-        "container": "container",
+        "container": "container-fluid",
         "color_scheme": "badge-sale",
         "show_announcement": true,
         "homepage_only": true,
@@ -86,7 +102,6 @@
         "transparent_on_top": false,
         "transparent_text_color": "#ffffff",
         "logo_text": "",
-        "logo": "shopify://shop_images/logo_4504c155-58c4-4340-a30a-504b5e26f005.png",
         "logo_svg": "",
         "logo_mobile_svg": "",
         "logo_transparent_svg": "",
