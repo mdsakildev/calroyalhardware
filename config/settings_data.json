@@ -9,6 +9,7 @@
  */
 {
   "current": {
+    "favicon": "shopify://shop_images/calroyal-hardware-Logo-design-White_copy_2.png",
     "container_width": 1200,
     "container_fluid_width": 1420,
     "container_fluid_offset": 65,
