@@ -16,6 +16,7 @@
           "type": "slider_item",
           "settings": {
             "background": "shopify://shop_images/112.png",
+            "mb_background": "shopify://shop_images/112.png",
             "content_in_container": false,
             "content_position": "left middle",
             "text_alignment": "center",
@@ -107,14 +108,14 @@
       ],
       "settings": {
         "container": "w-full",
-        "slideshow_height": "adapt",
+        "slideshow_height": "medium",
         "show_overlay": false,
         "dots_position": "bottom",
         "dots_color": "light",
-        "show_dots": true,
+        "show_dots": false,
         "show_arrows": false,
         "autorotate": true,
-        "autorotate_speed": 3,
+        "autorotate_speed": 4,
         "use_content_above": false,
         "custom_class": "sf-home__slideshow",
         "animations": "fade-in-up"
