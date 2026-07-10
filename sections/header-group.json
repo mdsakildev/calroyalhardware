@@ -14,18 +14,33 @@
     "annoucement": {
       "type": "annoucement",
       "blocks": {
+        "item_fbK4a8": {
+          "type": "item",
+          "settings": {
+            "message": "Most products ship in 1-3 Days",
+            "message_link": ""
+          }
+        },
+        "item_gTzzBX": {
+          "type": "item",
+          "settings": {
+            "message": "Contact Us: 1-877-930-1192",
+            "message_link": ""
+          }
+        },
         "item_7qmTrF": {
           "type": "item",
           "settings": {
-            "message": "Free shipping for all orders from $60+",
+            "message": "Distributor:  Cal Royal Hardware | DKS Hollow Metal | Eagle Wood Doors",
             "message_link": ""
           }
         }
       },
       "block_order": [
+        "item_fbK4a8",
+        "item_gTzzBX",
         "item_7qmTrF"
       ],
-      "disabled": true,
       "custom_css": [
         ".m-announcement-bar__container {--container-width: 600px;}"
       ],
@@ -43,27 +58,6 @@
     },
     "header": {
       "type": "header",
-      "blocks": {
-        "5e153016-a9d7-46c9-a10e-30d16446793d": {
-          "type": "topbar",
-          "settings": {
-            "color_scheme": "",
-            "show_divider": true,
-            "transparent_on_top": false,
-            "show_phone_numb": false,
-            "show_email": false,
-            "show_social_links": false,
-            "show_stores_page": false,
-            "show_currency_switcher": false,
-            "show_country_selector": true,
-            "show_language_switcher": false,
-            "alert_message": "<span>Open Doors To A World Of Fashion  |  <a class=\"m-link-underline\" href=\"#\">Discover More</a><span></span></span>"
-          }
-        }
-      },
-      "block_order": [
-        "5e153016-a9d7-46c9-a10e-30d16446793d"
-      ],
       "custom_css": [
         ".m-topbar a[href*=\"facebook\"] {order: 2;}",
         ".social-media-links {column-gap: 30px;}"
