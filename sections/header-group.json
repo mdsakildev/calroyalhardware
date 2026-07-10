@@ -60,7 +60,8 @@
       "type": "header",
       "custom_css": [
         ".m-topbar a[href*=\"facebook\"] {order: 2;}",
-        ".social-media-links {column-gap: 30px;}"
+        ".social-media-links {column-gap: 30px;}",
+        "/* .m-header__main.m-menu-bar.m-gradient.m-color-dark{background:yellow; color: black;} */"
       ],
       "settings": {
         "color_scheme": "badge-sale",
