@@ -18,14 +18,14 @@
             "background": "shopify://shop_images/112.png",
             "content_in_container": false,
             "content_position": "left middle",
-            "text_alignment": "left",
-            "text_size": "large",
+            "text_alignment": "center",
+            "text_size": "medium",
             "text_color": "black",
-            "subheading": "",
-            "title": "THE BEAUTY",
-            "description": "<p>Makeup with extended range in colors for every human. Crazy </p><p>long on wear and super sustainable for standards</p>",
+            "subheading": "Premium Looks and Accessories That Combine Style and Strength",
+            "title": "Upgrade Doors with Quality Hardware",
+            "description": "",
             "image_link": "",
-            "button_text": "SHOP NOW",
+            "button_text": "SHOP ALL",
             "button_link": "",
             "button_style": "m-button--secondary",
             "button_size": "",
@@ -143,30 +143,10 @@
             "block_custom_class": "",
             "animations": "inherit"
           }
-        },
-        "text_WgzQxN": {
-          "type": "text",
-          "settings": {
-            "title": "DEFINE YOURSELF.<br>\nBE DIFFERENT.",
-            "subheading": "",
-            "text": "<p><strong>An independent label created in 2019, LARS KAIZER reinterprets the numerous emblematic theorems of art, science and architecture into wearable statements of non-conformity, enabling the allure of artistic</strong></p>",
-            "width": "50%",
-            "alignment": "center",
-            "align_text": "left",
-            "text_size": "medium",
-            "text_color": "inherit",
-            "button_label": "ABOUT US",
-            "button_link": "",
-            "button_style": "m-button--secondary",
-            "button_size": "",
-            "block_custom_class": "",
-            "animations": "inherit"
-          }
         }
       },
       "block_order": [
-        "video_KcDJLW",
-        "text_WgzQxN"
+        "video_KcDJLW"
       ],
       "settings": {
         "heading": "",
