@@ -16,6 +16,7 @@
           "type": "slider_item",
           "settings": {
             "background": "shopify://shop_images/112_ea5ed4d0-e4e1-44f2-9974-233474e99ed1.png",
+            "mb_background": "shopify://shop_images/112.png",
             "content_in_container": false,
             "content_position": "left middle",
             "text_alignment": "center",
